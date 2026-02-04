@@ -113,7 +113,7 @@ $kodeUMKM = 'UM' . str_pad($newNumber, 3, '0', STR_PAD_LEFT);
             <div class="collapse" id="operator">
               <ul class="nav flex-column sub-menu">
               <li class="nav-item"> <a class="nav-link" href="tambah_operator.php">Tambah Operator</a></li>
-              <li class="nav-item"> <a class="nav-link" href="operator.php">Daftar Operator</a></li>
+              <li class="nav-item"> <a class="nav-link" href="data_operator.php">Daftar Operator</a></li>
               </ul>
             </div>
           </li>
