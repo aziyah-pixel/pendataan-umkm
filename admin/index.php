@@ -276,7 +276,7 @@ while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
                 </div>
               </li>
               <li class="nav-item nav-logout d-none d-lg-block">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="index.php">
                   <i class="mdi mdi-home-circle"></i>
                 </a>
               </li>

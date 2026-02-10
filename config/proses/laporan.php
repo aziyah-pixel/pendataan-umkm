@@ -6,7 +6,7 @@ $search = trim($_GET['search'] ?? '');
 
 // Jika kosong
 if ($search === '') {
-  header("Location: ../../admin/pages/laporan/lap_umkm.php?error=kosong");
+  header("Location: ../../admin/pages/laporan/lap-umkm.php");
   exit;
 }
 

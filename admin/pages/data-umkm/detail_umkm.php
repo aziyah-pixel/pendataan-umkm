@@ -123,7 +123,7 @@ if (!$umkm) {
             </a>
             <div class="collapse" id="master-data">
               <ul class="nav flex-column sub-menu">
-              <li class="nav-item"> <a class="nav-link" href="../master-data/jenis-data.php">Jenis Data</a></li>
+              <li class="nav-item"> <a class="nav-link" href="../master-data/jenis_usaha.php">Jenis Data</a></li>
                 <li class="nav-item"> <a class="nav-link" href="../master-data/pengurus.php">Pengurus</a></li>
                 <li class="nav-item"> <a class="nav-link" href="../master-data/wilayah.php">Wilayah</a></li>
               </ul>
@@ -165,7 +165,7 @@ if (!$umkm) {
               <span class="mdi mdi-chevron-double-left"></span>
             </button>
             <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-              <a class="navbar-brand brand-logo-mini" href="../../index.html"><img src="../../../assets/images/logo-mini.png" alt="logo" /></a>
+              <a class="navbar-brand brand-logo-mini" href="../../index.php"><img src="../../../assets/images/logo-mini.png" alt="logo" /></a>
             </div>
             <ul class="navbar-nav">
               <li class="nav-item dropdown ms-3">
@@ -235,7 +235,7 @@ if (!$umkm) {
                 </div>
               </li>
               <li class="nav-item nav-logout d-none d-lg-block">
-                <a class="nav-link" href="../../index.html">
+                <a class="nav-link" href="../../index.php">
                   <i class="mdi mdi-home-circle"></i>
                 </a>
               </li>

@@ -40,7 +40,7 @@ $stmt->execute([
     $role
 ]);
 
-header("Location: ../../admin/pages/master-data/operator.php?msg=added");
+header("Location: ../../admin/pages/operator/data_operator.php?msg=added");
 exit;
 
 }
